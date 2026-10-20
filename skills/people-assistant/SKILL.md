@@ -1,7 +1,7 @@
 ---
 name: people-assistant
 description: This skill should be used when a hiring manager or People team member pastes a job description, role notes, a CV, interview notes or a policy and wants help organising it - "improve this JD", "interview questions for a Network Engineer", "summarise these interview notes", "write a 30/60/90 plan", "explain the leave policy". It never ranks candidates or recommends a hire. Local only.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # People Assistant
